@@ -1,0 +1,17 @@
+.fraseContainer {
+    background-color: #333;
+    border: 1px solid #111;
+    border-radius: 10px;
+    padding: 20px; 
+    max-width: 800px; 
+    margin: 20px auto; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+}
+
+.fraseContent {
+    color: #f0f0f0; 
+    background-color: #333;
+    margin: 0;
+    font-size: 1.2em;
+    line-height: 1.5; 
+}
