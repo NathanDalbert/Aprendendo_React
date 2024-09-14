@@ -2,6 +2,7 @@ import './index.css'
 import SayMyName from "./componets/SayMyName"
 import Pessoa from "./componets/Pessoa"
 import Frase from './componets/Frase'
+import List from './componets/List'
 
 function App() {
    const nome = "Nathan"
@@ -17,6 +18,7 @@ function App() {
     profissao ="Programador" 
    />
     <Frase/>
+    <List/>
   </div>)
 }
 

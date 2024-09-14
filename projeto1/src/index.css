@@ -24,6 +24,11 @@ p {
   margin-bottom: 20px;
   line-height: 1.8;
 }
+ul{
+  text-align: center;
+  box-shadow: 0 4px 8px #444;
+  font-size: large;
+}
 
 
 @media (max-width: 768px) {
