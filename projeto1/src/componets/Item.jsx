@@ -5,8 +5,7 @@ function Item({marca, ano_lancamento}){
         <>
         <li>
             {marca} - {ano_lancamento}
-        </li>
-        
+        </li>         
         </>
     )
 
